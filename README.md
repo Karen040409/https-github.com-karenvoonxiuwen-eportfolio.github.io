@@ -1,4 +1,3 @@
-# https-github.com-karenvoonxiuwen-eportfolio.github.io
 # 💫 About Me:
 ![photo1706344993](https://github.com/Karen040409/https-github.com-karenvoonxiuwen-eportfolio.github.io/assets/148403148/c6da1072-78e1-43c3-95e4-c2bb5dacba26)
 
