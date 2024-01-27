@@ -32,7 +32,7 @@ On 14th December, our section had visited UTM Digital in UTM, it was a fun and m
 
 Video link:https://www.youtube.com/watch?v=rWfqg55Ml6E
 
-#ASSIGNMENT 3-INDUSTRY TALK 2
+# ASSIGNMENT 3-INDUSTRY TALK 2
 
 REFLECTION:
 
@@ -41,7 +41,7 @@ In this industry talk 2, I had got a lot of information and advice from Ms Qisti
 [TIS_TechLe_ASG3.pdf](https://github.com/Karen040409/https-github.com-karenvoonxiuwen-eportfolio.github.io/files/14073035/TIS_TechLe_ASG3.pdf)
 
 
-#ASSIGNMENT 4-NEWSPAPER
+# ASSIGNMENT 4-NEWSPAPER
 
 REFLECTION:
 
